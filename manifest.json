@@ -1,0 +1,9 @@
+{
+  "name": "Reminder App",
+  "short_name": "Reminder",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Aplikacija priminimams valdyti"
+}
