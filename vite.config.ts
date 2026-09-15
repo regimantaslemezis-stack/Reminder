@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Reminder/', // <--- Šitas privalomas GitHub Pages, kad rasta failus subkataloge!
+    base: '/Reminder/', // <--- Šitas privalomas GitHub Pages, kad rasta failus subkataloge!Ą
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
