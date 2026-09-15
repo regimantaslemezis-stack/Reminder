@@ -1,9 +1,16 @@
 {
-  "name": "Reminder App",
+  "name": "Reminder",
   "short_name": "Reminder",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "description": "Aplikacija priminimams valdyti"
+  "description": "Patogi ir funkcionali priminimų bei darbų valdymo programa su terminais, prioritetais ir kategorijomis.",
+  "icons": [
+    {
+      "src": "./Alarm-Clock--Streamline-Core-Gradient.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
 }
