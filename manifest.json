@@ -11,6 +11,11 @@
       "src": "./Alarm-Clock--Streamline-Core-Gradient.svg",
       "sizes": "512x512",
       "type": "image/svg+xml"
+    },
+    {
+      "src": "./Alarm-Clock--Streamline-Core-Gradient.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
     }
   ]
 }
