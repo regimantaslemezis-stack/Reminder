@@ -1,0 +1,6 @@
+{
+  "name": "Priminimai",
+  "description": "Patogi ir funkcionali priminimų bei darbų valdymo programa su terminais, prioritetais ir kategorijomis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
